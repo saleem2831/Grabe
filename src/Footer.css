@@ -1,0 +1,36 @@
+.footer-container {
+    display: flex;
+    justify-content: space-between; /* This will separate the columns */
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .column {
+    flex: 1;
+    text-align: center; /* Center align the content in the first column */
+    margin: 0 10px;
+  }
+  
+  .column.right {
+    text-align: right; /* Right align the content in the second column */
+  }
+  
+  .column h3 {
+    font-size: 1.2em;
+  }
+  
+  .column p {
+    margin: 0;
+    font-size: 0.9em;
+  }
+  
+  .column ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .column li {
+    margin-bottom: 5px;
+  }
+  
