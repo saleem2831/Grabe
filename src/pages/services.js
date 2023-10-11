@@ -43,9 +43,6 @@ const Services = () => {
               </div>
             </div>
     
-           
-              
-
             <div className='Tag'>
            <div className='Tag4-13'>
               <div className='Tag1-2-1'>
@@ -70,7 +67,7 @@ const Services = () => {
               
               
             </div>
-    
+
           <section className='footer'>
             <h1>Let's end the application with this Footer</h1>
           </section>
