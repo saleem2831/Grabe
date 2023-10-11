@@ -44,12 +44,12 @@ const Services = () => {
             </div>
     
             <div className='Tag'>
-           <div className='Tag4-13'>
+           <div className='Tag1-13'>
               <div className='Tag1-2-1'>
               </div>
               </div>
 
-              <div className='Tag4-11'>
+              <div className='Tag1-11'>
                   
                   <p className='Tag4-1-2'>Growth by design</p>
               <p className='Tag4-1-3'>
