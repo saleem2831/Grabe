@@ -1,6 +1,10 @@
 // src/Home.js
 import React from 'react';
 import './home.css';
+import Sliders from './Sliders';
+import Header2 from '../header2';
+import Footer from '../Footer';
+
 
 
 const Home = () => {
@@ -11,6 +15,7 @@ const Home = () => {
           </div>
           
           <section className='Pic1'>
+            <Sliders/>
           </section>
 
           <div className='Tag2'>
@@ -74,7 +79,9 @@ const Home = () => {
                   <button className='Btn-4'>Experience</button>
                   <button className='Btn-4'>Health Care</button>
                   <button className='Btn-4'>Cloud</button>
-              </div>          </div>
+              </div>         
+               </div>
+               <Footer/>
         </main>
       );};
 

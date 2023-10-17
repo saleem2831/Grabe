@@ -1,10 +1,10 @@
 import React from 'react';
-import './Footer.css'; // Create a CSS file for styling
+import './Footer.css';
 
 const Footer = () => {
   return (
     <footer className="footer-container">
-      <div className="column">
+      {/* <div className="column">
         <h2>GrubStake</h2>
         <p>Email</p>
         <p>Address Line</p>
@@ -18,8 +18,32 @@ const Footer = () => {
           <li>Service 3</li>
           <li>Service 4</li>
         </ul>
+      </div> */}
+      <div className='main2'>
+        <div className='txt'>
+          <div className='name'>
+            <p className='txt1'>Let’s Talk</p>
+            <p className='txt2'>sales@grubstake.com</p>
+          </div>
+          <p className='txt3'>10-3-299/2, Humayun Nagar, Masab Tank, Hyderabad - 500028</p>
+
+        </div>
+        <ul>
+          <ul>Work</ul>
+          <ul>Industries</ul>
+          <ul>Clients</ul>
+          <ul>About</ul>
+          <ul>Contact</ul>
+        </ul>
+      </div>
+
+      <div className='bottom'>
+        <p className='bot1'>Privacy    &nbsp;  &nbsp;&nbsp; &nbsp;Terms &nbsp;&nbsp; &nbsp;&nbsp;Sitemap</p>
+        {/* <p className='bot1'>Privacy</p> */}
+        <p className='bot1'> copyrights 2023 - Grubstake</p>
       </div>
     </footer>
+    
   );
 };
 

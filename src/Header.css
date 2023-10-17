@@ -7,8 +7,11 @@ body {
 
 .header {
   overflow: hidden;
-  background-color: #f1f1f1;
+  /* background-color: #f1f1f1; */
+  background: rgba(255, 255, 255, 0.80);
   padding: 20px 10px;
+  /* width: 248%; */
+  width: 260%;
 }
 
 .header a {
@@ -17,7 +20,7 @@ body {
   text-align: center;
   padding: 12px;
   text-decoration: none;
-  font-size: 18px; 
+  font-size: 16px; 
   line-height: 25px;
   border-radius: 4px;
 }
@@ -28,14 +31,14 @@ body {
 }
 
 .header a:hover {
-  background-color: #ddd;
-  color: black;
+  /* background-color: #ddd; */
+  /* color: black; */
 }
 
-/* .header a.active {
-  background-color: dodgerblue;
-  color: white;
-} */
+.header a.active { 
+  /* background-color: dodgerblue;
+  color: white; */
+} 
 
 .header-right {
   float: right;
@@ -51,4 +54,46 @@ body {
   .header-right {
     float: none;
   }
+}
+
+
+a {
+  color: #fff;
+  /* text-transform: uppercase; */
+  text-decoration: none;
+  letter-spacing: 0.15em;
+  
+  display: inline-block;
+  padding: 15px 20px;
+  position: relative;
+}
+.Color:after {    
+  background: none repeat scroll 0 0 transparent;
+  bottom: 0;
+  content: "";
+  display: block;
+  height: 2px;
+  left: 50%;
+  position: absolute;
+  background: dodgerblue;
+  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+  width: 0;
+}
+a:hover:after { 
+  width: 100%; 
+  left: 0; 
+}
+@media screen and (max-height: 300px) {
+	ul {
+		margin-top: 40px;
+	}
+}
+
+
+.img11{
+  background: url('/src/Images/Frame.png');
+  width: 131px;
+height: 22px;
+flex-shrink: 0;
+
 }

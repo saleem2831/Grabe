@@ -1,7 +1,6 @@
 // src/Work.js
 import React from 'react';
-import './contact.css';
-
+import '../pages/contact.css';
 
 const Contact = () => {
     return (

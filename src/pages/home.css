@@ -59,15 +59,17 @@
 }
 
 .Pic1{
-    background: url('/src/Images/image\ 10.png'), lightgray 50% / cover no-repeat;
+    /* background: url('/src/Images/image\ 10.png'), lightgray 50% / cover no-repeat; */
     width: 1449px;
+    width: auto;
     height: 966px;
 }
 
 .Tag2{
     
     display: flex;
-    width: 1438px;
+    /* width: 1438px; */
+
     padding: 96px 64px;
     justify-content: center;
     align-items: center;

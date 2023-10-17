@@ -1,0 +1,12 @@
+.Slidemain{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 64px;
+}
+
+.Img{
+    width: 1449px;
+height: 966px;
+}
