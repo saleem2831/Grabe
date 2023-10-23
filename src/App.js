@@ -9,6 +9,7 @@ import Services from '../src/pages/services';
 import Contact from '../src/pages/contact';
 import Slide from '../src/pages/Sliders';
 import Header2 from './header2';
+import Test from './pages/testinomalslider';
 
 const App = () => {
   return (
@@ -23,6 +24,7 @@ const App = () => {
         <Route path="/contact" component={Contact} />
         <Route path="/slider" component={Slide}/>
         <Route path="/header2" component={Header2}/>
+        <Route path="/testinomal" component={Test}/>
 
 
 

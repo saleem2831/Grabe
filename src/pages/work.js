@@ -3,14 +3,17 @@ import React from 'react';
 
 import './work.css';
 import './home.css';
+import Footer from '../Footer';
+
+
 
 
 const Work = () => {
     return (
         <main>
           <div className='Intro'>
-            <div className='first'>
-               <p className='first-1'>
+            <div className='one'>
+               <p className='one-1'>
                We bring your boldest ideas to life
                 </p>   
             </div>
@@ -89,7 +92,8 @@ const Work = () => {
             
               </div>
             </div>
-       
+            <Footer/>
+
         </main>
       );};
 

@@ -4,12 +4,20 @@ import './home.css';
 import Sliders from './Sliders';
 import Header2 from '../header2';
 import Footer from '../Footer';
+import $ from "jquery";
+import M from 'materialize-css/dist/js/materialize.min.js';
+import { useEffect } from 'react';
+
 
 
 
 const Home = () => {
+
+
+
     return (
         <main>
+          
           <div className='Tag'>
             <p className='Tag1'>Grubstake a global business consulting firm</p>
           </div>
@@ -21,6 +29,7 @@ const Home = () => {
           <div className='Tag2'>
             <p className='Tag2-1'>Based in Hyderabad, we strengthen brands through exceptional digital experiences for companies worldwide.</p>
           </div>
+
     
           <section className='contents'>
             <h1>I Love React</h1>

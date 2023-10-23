@@ -118,7 +118,7 @@ html.has-scroll-smooth {
   }
 
 
-  .first{
+  .one{
     display: flex;
     align-items: center;
     gap: 32px;
@@ -127,14 +127,14 @@ html.has-scroll-smooth {
 
   .Intro{
     display: flex;
-    width: 1438px;
+    width: auto;
     padding: 96px 64px;
     justify-content: center;
     align-items: center;
     gap: 10px;  
   }
 
-  .first-1{
+  .one-1{
     width: 662px;
     color: var(--black, #000);
 

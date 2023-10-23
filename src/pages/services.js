@@ -4,6 +4,7 @@ import LocomotiveScroll from 'locomotive-scroll';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import './service.css';
+import Footer from '../Footer';
 
 const Services = () => {
 
@@ -184,9 +185,34 @@ const Services = () => {
             </div>
     
             
-          <section className='footer'>
-            <h1>Let's end the application with this Footer</h1>
-          </section>
+          <div className='footer1'>
+            {/* <h1>Let's end the application with this Footer</h1> */}
+            <div >
+                  <p className='name'>Industries</p>
+                  <p className='name2'>We unite with big brands and startups in various industries to create award-winning work.</p>
+                  <div className='detail1'>
+                    <p className='txt1'>Technology</p>
+                    <p className='txt2'>Client 1, Client 2 </p>
+                  </div>
+                  <div className='detail1'>
+                    <p className='txt1'>Healthcare</p>
+                    <p className='txt2'>Client 1, Client 2 </p>
+                  </div>
+                  <div className='detail1'>
+                    <p className='txt1'>Telecommunications</p>
+                    <p className='txt2'>Client 1, Client 2 </p>
+                  </div>
+                  <div className='detail1'>
+                    <p className='txt1'>Financial Services</p>
+                    <p className='txt2'>Client 1, Client 2 </p>
+                  </div>
+                  <div className='detail1'>
+                    <p className='txt1'>Consumer Products</p>
+                    <p className='txt2'>Client 1, Client 2 </p>
+                  </div>
+            </div>
+          </div>
+          <Footer/> 
         </main>
       );
 };
