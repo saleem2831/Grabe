@@ -22,18 +22,18 @@ const Footer = () => {
       <div className='main2'>
         <div className='txt'>
           <div className='name'>
-            <p className='txt1'>Let’s Talk</p>
+            <p className='txt-10    '>Let’s Talk</p>
             <p className='txt2'>sales@grubstake.com</p>
           </div>
           <p className='txt3'>10-3-299/2, Humayun Nagar, Masab Tank, Hyderabad - 500028</p>
 
         </div>
         <ul>
-          <ul>Work</ul>
-          <ul>Industries</ul>
-          <ul>Clients</ul>
-          <ul>About</ul>
-          <ul>Contact</ul>
+          <ul id="foot">Work</ul>
+          <ul id="foot">Industries</ul>
+          <ul id="foot">Clients</ul>
+          <ul id="foot">About</ul>
+          <ul id="foot">Contact</ul>
         </ul>
       </div>
 

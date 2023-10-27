@@ -1,4 +1,3 @@
-// src/Work.js
 import React from 'react';
 import LocomotiveScroll from 'locomotive-scroll';
 import { gsap } from 'gsap';

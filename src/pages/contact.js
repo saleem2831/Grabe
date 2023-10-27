@@ -15,20 +15,22 @@ const Contact = () => {
                 {/* <div className='main2-2-1'> */}
                 <div>
                   <p className='main2-2-1-1'>Become a client</p>
-                  <p className='main2-2-1-2'>sales@grubstake.com</p>
+                  {/* <p className='main2-2-1-2'>sales@grubstake.com</p> */}
+                  <p className='main2-2-1-2'><a className='ref' href="mailto:sales@grubstake.com">sales@grubstake.com</a></p>
                 </div>
                 <div className='main2-2-2'>
                 <p className='main2-2-1-1'>Work at GrubStake</p>
-                  <p className='main2-2-1-2'>jobs@grubstake.com</p>
+                  {/* <p className='main2-2-1-2'>jobs@grubstake.com</p> */}
+                  <p className='main2-2-1-2'><a className='ref' href="mailto:jobs@grubstake.com">jobs@grubstake.com</a></p>
                   </div>
             </div>
             <p className='address'>10-3-299/2, Humayun Nagar, Masab Tank, Hyderabad - 500028</p>
-            <div className='icon-1'>
-            <div className='icon-2'>
-            <div className='icon-3'>
-            </div>
-            </div>
-            </div>
+            <a className='icon-1' href="https://www.youtube.com/">
+            <a className='icon-2' href="https://twitter.com/">
+            <a className='icon-3' href="https://www.linkedin.com/">
+            </a>
+            </a>
+            </a>
             
             </div>            
             <div className='img'></div> 

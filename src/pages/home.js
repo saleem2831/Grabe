@@ -7,6 +7,7 @@ import Footer from '../Footer';
 import $ from "jquery";
 import M from 'materialize-css/dist/js/materialize.min.js';
 import { useEffect } from 'react';
+import Testinominal from './testinomalslider';
 
 
 
@@ -31,9 +32,10 @@ const Home = () => {
           </div>
 
     
-          <section className='contents'>
-            <h1>I Love React</h1>
-          </section>
+          <div>
+            {/* <h1>I Love React</h1> */}
+            <Testinominal/>
+          </div>
 
           <div className='Tag3'>
             <p className='Tag3-1'>Sneak peak ...</p>

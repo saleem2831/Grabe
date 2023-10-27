@@ -3,10 +3,11 @@ import './testinomalslider.css'; // Create this CSS file to style your component
 
 const TextSlider = () => {
   const texts = [
-    {head: 'Hello 1st Text', para:"Welcome to our website!"},
-    {head: 'Hello 2nd Text', para:"Explore our awesome features."},
-    {head: 'Hello 3rd Text', para:"Join our community today."},
-    {head: 'Hello 4th Text', para:"Join our community today."},
+    {head: 'Digital & Business Transformation', para:"Welcome to our website!"},
+    {head: 'Strategy & Corporate Finance', para:"Explore our awesome features."},
+    {head: 'Operations & Implementation', para:"Join our community today."},
+    {head: 'People & Organization Strategy', para:"Join our community today."},
+    {head: 'Growth by Design', para:"Join our community today."},
   ];
 
   

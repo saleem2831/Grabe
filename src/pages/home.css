@@ -21,9 +21,7 @@
     align-items: center;
     justify-content: center;
   }
-  .contents {
-    background-color: goldenrod;
-  }
+  
   #stick {
     background-color: rgb(71, 14, 64);
     display: flex;
@@ -173,7 +171,7 @@ flex-wrap: wrap;
 }
 
 .Btn-4:hover {
-  background-color: blue;
+  background-color: rgba(0,88,166,255);
   color: white;
 }
 
@@ -253,46 +251,7 @@ font-weight: 400;
 line-height: normal;
 }
 
-.carousel-1{
-  height: 100vh;
-  perspective: 250px;
-}
-
-.carousel .carousel-item1{
-  width:450px;
-}
-
-.card{
-  position: relative;
-  margin: 0.5rem 0 1rem 0;
-  background-color: red;
-  width: 450px;
-  height: 379px;
-  color: #262626;
-  box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.2);
-  border-radius: 100px;
-}
-
-.box1{
-  background-color: blue;
-  height: 120px;
-  border-radius: 25px 25px 0 0;
-}
-
-.main-text{
-  padding: 8px 0;
-  text-align: center;
-}
-
-.main-text h2{
-  font-weight: 900;
-  font-size: 20px;
-  margin: 0 0 20px;
-  font-family:Arial, Helvetica, sans-serif;
-}
-
-.main-text p{
-  font-size: 16px;
-  padding: 0 35px;
+.testinomal{
+  width: auto;
 }
 
