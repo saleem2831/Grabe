@@ -22,7 +22,7 @@ const Footer = () => {
       <div className='main2'>
         <div className='txt'>
           <div className='name'>
-            <p className='txt-10    '>Let’s Talk</p>
+            <p className='txt-10'>Let’s Talk</p>
             <p className='txt2'>sales@grubstake.com</p>
           </div>
           <p className='txt3'>10-3-299/2, Humayun Nagar, Masab Tank, Hyderabad - 500028</p>

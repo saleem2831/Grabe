@@ -3,6 +3,8 @@ import React from 'react';
 import '../pages/contact.css';
 
 const Contact = () => {
+
+  
     return (
         <main>
         <div className='main1'>
@@ -33,8 +35,9 @@ const Contact = () => {
             </a>
             
             </div>            
-            <div className='img'></div> 
+            <div className='img-div'><div className='img'></div> </div>
           </div>
+          <div className='img-div2'><div className='img2'></div> </div>
           <div className='foot'>
           <p className='foottxt'>Privacy</p>
           <p className='foottxt'>Terms</p>

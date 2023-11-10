@@ -122,8 +122,7 @@ line-height: normal;
     justify-content: center;
     align-items: center;
     gap: 8px;
-    
-    
+    font-size: 16px;
     border-radius: 29px;
     border: 1px solid var(--primary, #0074D9);
     background: var(--white, #FFF);
@@ -162,8 +161,8 @@ align-items: flex-start;
   }
   
 
-  .Tag{
-    display: flex;
+  .Tag1{
+  /* display: flex; */
   padding: 96px 64px;
   justify-content: center;
   align-items: center;
@@ -205,9 +204,7 @@ gap: 10px;
 align-self: stretch;
   }
 
-  .footer1 {
-
-  }
+ 
 
   .name{
     align-self: stretch;
@@ -266,3 +263,89 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
   }
+
+/* Tab */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+  .Tag1-2-1,.Tag4-2-1{
+    margin: auto;
+  }
+
+  .Tag4-2-1{
+    margin-top: 40px;
+  }
+
+ .Tag1-13{
+    /* margin: auto; */
+    /* position: relative; */
+    /* bottom: 250px; */
+    z-index: 1;
+    order: 2;
+  }
+
+  .Tag1-11{
+    /* position: relative; */
+    z-index: 2;
+    order: 1;
+    /* display: none; */
+  }
+  
+}
+
+@media only screen and (min-width: 992px) {
+
+  .Tag1{
+    display: flex;
+    }
+  
+}
+
+@media (max-width: 575.98px) { 
+
+  .Tag4-1-2{
+  font-size: 36px;
+  font-weight: 600;
+  margin: 10px 10px 10px 0px;
+  }
+
+  .Tag4-2-1{
+    width: 380px;
+    height: 768px;
+    border-radius: 26px;
+  }
+
+  .Tag1-2-1{
+border-radius: 54px;
+width: 350px;
+height: 600px;
+margin-left: -50px;
+  }
+
+  .footer1{
+
+    width: auto;
+  }
+
+  .name2{
+font-size: 18px;
+font-weight: 300;
+  }
+
+  .detail1{
+padding: 0px;
+gap: 16px;
+  }
+  
+  .txt1{
+    width: 200px;
+/* font-size: 24px; */
+font-weight: 600;
+  }
+  .txt-1{
+    font-size: 18px;
+  }
+
+  .txt-2{
+    font-size: 14px;
+  }
+ }

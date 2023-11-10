@@ -20,7 +20,7 @@ const Home = () => {
         <main>
           
           <div className='Tag'>
-            <p className='Tag1'>Grubstake a global business consulting firm</p>
+            <p className='Tag-1'>Grubstake a global business consulting firm</p>
           </div>
           
           <section className='Pic1'>
@@ -32,7 +32,7 @@ const Home = () => {
           </div>
 
     
-          <div>
+          <div className='testinomal'>
             {/* <h1>I Love React</h1> */}
             <Testinominal/>
           </div>

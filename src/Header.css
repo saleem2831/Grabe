@@ -2,7 +2,7 @@
 
 body { 
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  /* font-family: Arial, Helvetica, sans-serif; */
 }
 
 .header {
@@ -11,19 +11,19 @@ body {
   background: rgba(255, 255, 255, 0.80);
   padding: 20px 10px;
   /* width: 248%; */
-  width: 260%;
+  width: 263%;
 }
 
 .header a {
-  float: left;
+  /* float: left;
   color: black;
   text-align: center;
-  padding: 12px 12px 8px 12px;
+  padding: 12px 12px 8px 12px; */
   /* padding: 12px; */
-  text-decoration: none;
-  font-size: 16px; 
-  line-height: 25px;
-  border-radius: 4px;
+  /* text-decoration: none;
+  font-size: 16px;  */
+  /* line-height: 25px; */
+  /* border-radius: 4px; */
 }
 
 .header a.logo {
@@ -61,14 +61,14 @@ body {
 a {
   color: #fff;
   /* text-transform: uppercase; */
-  text-decoration: none;
+  /* text-decoration: none;
   letter-spacing: 0.15em;
   
   display: inline-block;
   padding: 15px 20px;
-  position: relative;
+  position: relative; */
 }
-.Color:after {    
+/* .Color:after {    
   background: none repeat scroll 0 0 transparent;
   bottom: 0;
   content: "";
@@ -83,10 +83,10 @@ a {
 a:hover:after { 
   width: 100%; 
   left: 0; 
-}
+} */
 @media screen and (max-height: 300px) {
 	ul {
-		margin-top: 40px;
+		/* margin-top: 40px; */
 	}
 }
 
@@ -98,3 +98,15 @@ height: 22px;
 flex-shrink: 0;
 
 }
+
+/* Tab */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .header {
+    /* overflow: hidden;
+    background:red;
+    padding: 20px 10px;
+    width: 165%; */
+  }
+  
+}
+

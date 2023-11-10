@@ -131,6 +131,61 @@ line-height: normal;
     margin-bottom: 5px;
   }
 
+  @media (max-width: 575.98px) {
+    .footer-container {
+  padding: 16px;
+  gap: 28px;
+  /* width: 400px; */
+  width: auto;
+    }
+
+    .txt{
+  gap: 36px;
+    }
+  
+    ul{
+  font-size: 12px;
+  font-weight: 300;
+  margin-left: -5px;
+  padding: 0;
+    }
+
+    .name{
+     width: 250px;
+    }
+
+    .txt-10{
+  font-size: 48px;
+  font-weight: 500;
+  margin-bottom: auto;
+    }
+
+    .txt2{
+  font-size: 12px;
+  font-weight: 200;
+  margin: auto;
+    }
+
+    .txt3{
+      font-size: 12px;
+    }
+
+    .bottom{
+  align-items:flex-start;
+  align-self: stretch;
+    }
+  
+    .bot1{
+  font-size: 11px;
+  font-family: Poppins;
+  /* font-weight: 300; */
+  margin: 10px 5px 10px 5px;
+
+    }
+  
+
+   }
+
 
 
 

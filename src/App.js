@@ -10,12 +10,13 @@ import Contact from '../src/pages/contact';
 import Slide from '../src/pages/Sliders';
 import Header2 from './header2';
 import Test from './pages/testinomalslider';
+import HeaderMain from './Header';
 
 const App = () => {
   return (
     <Router>
-      <Header2/>
-      {/* <Header /> */}
+      {/* <Header2/> */}
+      <Header />
       <Switch>
         <Route path="/" exact component={Home} />
         <Route path="/about" component={About} />
@@ -25,6 +26,7 @@ const App = () => {
         <Route path="/slider" component={Slide}/>
         <Route path="/header2" component={Header2}/>
         <Route path="/testinomal" component={Test}/>
+        <Route path="/HeaderMain" component={HeaderMain}/>
 
 
 

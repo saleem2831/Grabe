@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
 .main1{
     display: flex;
 padding: 64px;
@@ -108,8 +114,6 @@ line-height: normal;
     margin-left: 48px;
     background-repeat: no-repeat;
     padding: 0%;
-
-
 }
 
 .icon-3{
@@ -129,7 +133,18 @@ line-height: normal;
     width: 570px;
 height: 754px;
 background: url('/src/Images/image\ 45.png'), lightgray 50% / cover no-repeat;
+display: flex;
 }
+
+.img2{
+    width: 570px;
+height: 754px;
+background: url('/src/Images/image\ 45.png'), lightgray 50% / cover no-repeat;
+display: flex;
+display: none;
+}
+
+
 
 .foot{
     display: flex;
@@ -170,4 +185,106 @@ font-weight: 400;
 line-height: normal;
 text-decoration-line: underline;
 padding: 0px;
-letter-spacing: 0;}
+letter-spacing: 0;
+}
+
+
+/* Tab */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .foottxt2{
+        margin-left:80px;
+    }
+
+
+
+    .img-div{
+        /* margin-top: 1500px; */
+        /* margin-right: 800px; */
+
+        position:relative;
+        right: 85%;
+        top: 60rem;
+        padding-bottom: 80px;
+
+    }
+
+    .img2{
+        display: none;
+    }
+
+    .main1{
+
+    gap: 0;
+    }
+
+}
+
+@media (max-width: 575.98px) { 
+    .foottxt2{
+        margin: auto;
+    }
+
+
+    .main2{
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-self: stretch;
+    }
+    
+    .main2-1{
+        width: 300px;
+        display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 64px;
+    }
+
+    .main2-1-2{
+        width: auto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    }
+
+    .main2-2{
+        width: auto;
+        display:flex;
+        flex-direction: column;
+    }
+
+    .foot{
+        gap: 16px;
+        margin: 0px 0px 0px 0px;
+    }
+
+    .foottxt{
+    font-size: 12px;
+    margin: 5px;
+    }
+    
+    .foottxt2{
+    font-size: 12px;
+    width: 180px;
+    /* text-align: center; */
+    }
+
+    .img{
+    width: 400px;
+    height: 600px;
+    display:flex;
+    display: none;
+    }
+
+    .img2{
+        width: 370px;
+        height: 550px;
+        display: block;
+    }        
+}
+
+
+
+

@@ -42,7 +42,7 @@ const Services = () => {
 
             </div>
     
-            <div className='Tag'>
+            <div className='Tag1'>
            <div className='Tag1-13'>
               <div className='Tag1-2-1'>
               </div>
@@ -88,7 +88,7 @@ const Services = () => {
 
             </div>
     
-            <div className='Tag'>
+            <div className='Tag1'>
            <div className='Tag1-13'>
               <div className='Tag1-2-1'>
               </div>
@@ -135,7 +135,7 @@ const Services = () => {
 
             </div>
     
-            <div className='Tag'>
+            <div className='Tag1'>
            <div className='Tag1-13'>
               <div className='Tag1-2-1'>
               </div>
@@ -190,24 +190,24 @@ const Services = () => {
                   <p className='name'>Industries</p>
                   <p className='name2'>We unite with big brands and startups in various industries to create award-winning work.</p>
                   <div className='detail1'>
-                    <p className='txt1'>Technology</p>
-                    <p className='txt2'>Client 1, Client 2 </p>
+                    <p className='txt1 txt-1'>Technology</p>
+                    <p className='txt2 txt-2'>Client 1, Client 2 </p>
                   </div>
                   <div className='detail1'>
-                    <p className='txt1'>Healthcare</p>
-                    <p className='txt2'>Client 1, Client 2 </p>
+                    <p className='txt1 txt-1'>Healthcare</p>
+                    <p className='txt2 txt-2'>Client 1, Client 2 </p>
                   </div>
                   <div className='detail1'>
-                    <p className='txt1'>Telecommunications</p>
-                    <p className='txt2'>Client 1, Client 2 </p>
+                    <p className='txt1 txt-1'>Telecommunications</p>
+                    <p className='txt2 txt-2'>Client 1, Client 2 </p>
                   </div>
                   <div className='detail1'>
-                    <p className='txt1'>Financial Services</p>
-                    <p className='txt2'>Client 1, Client 2 </p>
-                  </div>
+                    <p className='txt1 txt-1'>Financial Services</p>
+                    <p className='txt2 txt-2'>Client 1, Client 2 </p>
+                  </div> 
                   <div className='detail1'>
-                    <p className='txt1'>Consumer Products</p>
-                    <p className='txt2'>Client 1, Client 2 </p>
+                    <p className='txt1 txt-1'>Consumer Products</p>
+                    <p className='txt2 txt-2'>Client 1, Client 2 </p>
                   </div>
             </div>
           </div>

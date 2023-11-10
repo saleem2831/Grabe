@@ -23,17 +23,17 @@ const About = () => {
             <div className="first2">
               <div className='second2'>
                 <div className='third21'>
-                  <div className='four21'>
-                    <p className='five21'>13+</p>
-                    <p className='five22'>Global Team Members</p>
+                  <div className='four21 '>
+                    <p className='five21 five-21'>13+</p>
+                    <p className='five22 five-22'>Global Team Members</p>
+                  </div>
+                  <div className='four21 '>
+                    <p className='five21 five-21'>32</p>
+                    <p className='five22 five-22'>Years of Experience</p>
                   </div>
                   <div className='four21'>
-                    <p className='five21'>32</p>
-                    <p className='five22'>Years of Experience</p>
-                  </div>
-                  <div className='four21'>
-                    <p className='five21'>25+</p>
-                    <p className='five22'>Projects</p>
+                    <p className='five21 five-21'>25+</p>
+                    <p className='five22 five-22'>Projects</p>
                   </div>
                 </div>
                 <div className='third22'>
@@ -96,24 +96,24 @@ Our work with startups has made us more agile, and our experience with enterpris
                   <p className='name'>Industries</p>
                   <p className='name2'>We unite with big brands and startups in various industries to create award-winning work.</p>
                   <div className='detail1'>
-                    <p className='txt1'>Technology</p>
-                    <p className='txt2'>Client 1, Client 2 </p>
+                    <p className='txt1 txt-1'>Technology</p>
+                    <p className='txt2 txt-2'>Client 1, Client 2 </p>
                   </div>
                   <div className='detail1'>
-                    <p className='txt1'>Healthcare</p>
-                    <p className='txt2'>Client 1, Client 2 </p>
+                    <p className='txt1 txt-1'>Healthcare</p>
+                    <p className='txt2 txt-2'>Client 1, Client 2 </p>
                   </div>
                   <div className='detail1'>
-                    <p className='txt1'>Telecommunications</p>
-                    <p className='txt2'>Client 1, Client 2 </p>
+                    <p className='txt1 txt-1'>Telecommunications</p>
+                    <p className='txt2 txt-2'>Client 1, Client 2 </p>
                   </div>
                   <div className='detail1'>
-                    <p className='txt1'>Financial Services</p>
-                    <p className='txt2'>Client 1, Client 2 </p>
+                    <p className='txt1 txt-1'>Financial Services</p>
+                    <p className='txt2 txt-2'>Client 1, Client 2 </p>
                   </div>
                   <div className='detail1'>
-                    <p className='txt1'>Consumer Products</p>
-                    <p className='txt2'>Client 1, Client 2 </p>
+                    <p className='txt1 txt-1'>Consumer Products</p>
+                    <p className='txt2 txt-2'>Client 1, Client 2 </p>
                   </div>
             </div>
           </div>
