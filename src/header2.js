@@ -1,6 +1,6 @@
 import React from 'react';
-import { StickyNav } from 'react-js-stickynav';
-import 'react-js-stickynav/dist/index.css';
+// import { StickyNav } from 'react-js-stickynav';
+// import 'react-js-stickynav/dist/index.css';
 import './Header.css';
 
 const Header2 = () => {
@@ -29,7 +29,7 @@ const Header2 = () => {
   return (
     <div>
       {style()}
-      <StickyNav>
+      {/* <StickyNav> */}
       <header>
         <div class="header">
   {/* <a href="/" class="logo">GrubStake</a> */}
@@ -42,7 +42,7 @@ const Header2 = () => {
   </div>
 </div>
     </header>
-      </StickyNav>
+      {/* </StickyNav> */}
 
       <div className='styl'>
         
