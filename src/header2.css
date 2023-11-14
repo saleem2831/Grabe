@@ -46,7 +46,7 @@ nav ul {
     text-align: right;
     margin: 0;
     padding-right: 40px;
-    transition: 1s;
+    transition: 0.5s;
 }
 
 nav.black ul {
@@ -108,7 +108,7 @@ a {
 
   
 
-@media(max-width: 786px) {
+@media(max-width: 1200px) {
 
     .logo {
           position: fixed;

@@ -266,7 +266,7 @@ line-height: normal;
   }
 
 /* Tab */
-@media screen and (min-width: 768px) and (max-width: 991px) {
+@media screen and (min-width: 768px) and (max-width: 1200px) {
 
   .Tag1-2-1,.Tag4-2-1{
     margin: auto;
@@ -290,6 +290,10 @@ line-height: normal;
     order: 1;
     /* display: none; */
   }
+
+  .txt1{
+    width: 350px;
+  } 
   
 }
 

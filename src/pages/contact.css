@@ -195,7 +195,7 @@ letter-spacing: 0;
 
 
 /* Tab */
-@media screen and (min-width: 768px) and (max-width: 991px) {
+@media screen and (min-width: 768px) and (max-width: 1200px) {
     .foottxt2{
         margin-left:80px;
     }
@@ -207,9 +207,10 @@ letter-spacing: 0;
         /* margin-right: 800px; */
 
         position:relative;
-        right: 85%;
-        top: 60rem;
-        padding-bottom: 80px;
+        right: 95%;
+        top: 35rem;
+        padding-bottom: 5%;
+        z-index: -1;
 
     }
 
@@ -218,8 +219,20 @@ letter-spacing: 0;
     }
 
     .main1{
-
     gap: 0;
+    margin-top: 200px;
+    }
+
+    .icon-1{
+        background: url('/src/Images/Vector.png'), lightgray 50% / cover no-repeat;
+        fill: var(--grey-500, #333);
+        width: 26.6px;
+        height: 18.691px;
+        background-repeat: no-repeat;
+        padding: 0%;
+        margin-left: 3%;
+        margin-bottom: 30%;
+    
     }
 
 }

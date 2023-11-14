@@ -127,8 +127,8 @@ flex-wrap: wrap;
     background: url('/src/Images/image\ 27.png'), lightgray 50% / cover no-repeat;
 }
 
-.Tag4-1-2,.Tag4-2-2{
-    color: var(--black, #000);
+.Tag4-1-20,.Tag4-2-2{
+color: var(--black, #000);
 
 /* font/golden-ratio/poppins/semi-bold/h4 */
 font-family: Poppins;
@@ -257,7 +257,7 @@ line-height: normal;
 }
 
 /* Tab */
-@media screen and (min-width: 768px) and (max-width: 991px) {
+@media screen and (min-width: 768px) and (max-width: 1200px) {
   /* Styles for medium screens (e.g., tablets) */
   .Tag{
     
@@ -346,4 +346,6 @@ width: auto;
   }
 }
 
-
+/* @media screen and (min-width: 768px) and (max-width: 1200px) {
+  
+} */
