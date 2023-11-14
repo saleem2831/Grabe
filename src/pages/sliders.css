@@ -9,4 +9,5 @@ gap: 64px;
 .Img{
     width: 1449px;
 height: 966px;
+position: static;
 }

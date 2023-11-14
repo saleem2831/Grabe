@@ -140,7 +140,8 @@ background: linear-gradient(0deg, rgba(255, 255, 255, 0.50) 0%, rgba(255, 255, 2
 
 
 .main-img {
-  position: relative;
+  /* position: relative; */
+  position: static;
 }
 
 
@@ -151,6 +152,7 @@ background: linear-gradient(0deg, rgba(255, 255, 255, 0.50) 0%, rgba(255, 255, 2
   left: 50%;
   transform: translateX(-50%);
   transition: transform 0.3s ease, bottom 0.3s ease; /* Add a transition */
+  /* position: relative; */
 }
 
 .main-img h1, .main-img p {
@@ -183,8 +185,7 @@ background: linear-gradient(0deg, rgba(255, 255, 255, 0.50) 0%, rgba(255, 255, 2
   gap: 8px;
   border-radius: 29px;
   border: 1px solid var(--primary, #0074D9);
-  background: var(--white, #FFF);
-  
+  background: var(--white, #FFF);  
 }
 
 .learn-more:hover {

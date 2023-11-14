@@ -1,7 +1,8 @@
 * {
-    margin: 0;
+    margin-top: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Poppins;
   }
 
 .main1{
@@ -13,6 +14,7 @@ align-items: center;
 gap: 64px;
 align-self: stretch;
 background: var(--white, #FFF);
+margin-top: 15%;
 }
 
 .main2{
@@ -104,6 +106,7 @@ line-height: normal;
     height: 18.691px;
     background-repeat: no-repeat;
     padding: 0%;
+    margin-left: 3%;
 
 }
 
@@ -150,6 +153,7 @@ display: none;
     display: flex;
     align-items: flex-start;
     gap: 32px;
+    margin-top: 15%;
 }
 
 .foottxt{
@@ -173,7 +177,8 @@ font-size: 16px;
 font-style: normal;
 font-weight: 500;
 line-height: normal;
-margin-left: 400px;
+margin-left: 600px;
+/* margin-left: 20%; */
 }
 
 .ref{
