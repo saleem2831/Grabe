@@ -343,7 +343,8 @@ width: auto;
 @media screen and (min-width: 1400px) {
   main {
     width: 1370px;
-    margin-left: 25%;
+    margin: auto;
+    /* position: relative; */
   }
 }
 

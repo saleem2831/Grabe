@@ -120,7 +120,7 @@ gap: 8px;
 
 .first3{
     display: flex;
-width: 1440px;
+width: auto;
 padding: 64px 0px;
 justify-content: center;
 align-items: center;
@@ -149,8 +149,8 @@ background: url("../Images/image\ 38.png"), lightgray 50% / cover no-repeat;
 }
 
 .first4{
-    display: flex;
-width: 1438px;
+display: flex;
+width: auto;
 padding: 96px 64px;
 justify-content: center;
 align-items: center;
@@ -171,7 +171,7 @@ flex: 1 0 0;
 
 .first5{
     display: flex;
-width: 1438px;
+width: auto;
 padding: 96px 64px;
 flex-direction: column;
 justify-content: center;

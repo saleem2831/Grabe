@@ -3,6 +3,7 @@ import React from 'react';
 import './about.css';
 import './service.css';
 import Footer from '../Footer';
+import SlideImage from './slideimage';
 
 
 
@@ -20,7 +21,7 @@ const About = () => {
             </div>
           </div>
     
-            <div className="first2">
+            {/* <div className="first2">
               <div className='second2'>
                 <div className='third21'>
                   <div className='four21 '>
@@ -42,12 +43,13 @@ const About = () => {
 
                 </div>
               </div>
-            </div>
+            </div> */}
     
           <div className='first3'>
-            <div className='second31'></div>
+            {/* <div className='second31'></div>
             <div className='second32'></div>
-            <div className='second33'></div>
+            <div className='second33'></div> */}
+            <SlideImage/>
           </div>
 
           <div className='first4'>

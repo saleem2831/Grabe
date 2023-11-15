@@ -11,6 +11,7 @@ import Slide from '../src/pages/Sliders';
 import Header2 from './header2';
 import Test from './pages/testinomalslider';
 import HeaderMain from './Header';
+import SlideImage from './pages/slideimage';
 
 const App = () => {
   return (
@@ -27,6 +28,7 @@ const App = () => {
         <Route path="/header2" component={Header2}/>
         <Route path="/testinomal" component={Test}/>
         <Route path="/HeaderMain" component={HeaderMain}/>
+        <Route path="/slideImage" component={SlideImage}/>
 
 
 
