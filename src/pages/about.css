@@ -93,7 +93,8 @@ gap: 8px;
     color: var(--black, #000);
 
 /* font/golden-ratio/montserrat/semibold/h2 */
-font-family: Montserrat;
+/* font-family: Montserrat; */
+font-family: Poppins;
 font-size: 81px;
 font-style: normal;
 font-weight: 600;
@@ -104,7 +105,8 @@ line-height: normal;
     color: var(--black, #000);
 
 /* font/golden-ratio/montserrat/medium/h5 */
-font-family: Montserrat;
+/* font-family: Montserrat; */
+font-family: Poppins;
 font-size: 24px;
 font-style: normal;
 font-weight: 500;
@@ -161,7 +163,8 @@ gap: 10px;
     color: var(--black, #000);
 
 /* font/golden-ratio/montserrat/medium/h4 */
-font-family: Montserrat;
+/* font-family: Montserrat; */
+font-family: Poppins;
 font-size: 36px;
 font-style: normal;
 font-weight: 500;
@@ -170,7 +173,7 @@ flex: 1 0 0;
 }
 
 .first5{
-    display: flex;
+display: flex;
 width: auto;
 padding: 96px 64px;
 flex-direction: column;
@@ -185,7 +188,8 @@ gap: 64px;
     color: var(--black, #000);
 
 /* font/golden-ratio/montserrat/semibold/h2 */
-font-family: Montserrat;
+/* font-family: Montserrat; */
+font-family: Poppins;
 font-size: 81px;
 font-style: normal;
 font-weight: 600;
@@ -222,7 +226,8 @@ flex: 1 0 0;
     color: var(--grey-300, #858585);
 
 /* font/golden-ratio/montserrat/medium/h3 */
-font-family: Montserrat;
+/* font-family: Montserrat; */
+font-family: Poppins;
 font-size: 54px;
 font-style: normal;
 font-weight: 500;
@@ -233,7 +238,8 @@ line-height: normal;
     color: var(--black, #000);
 
     /* font/golden-ratio/montserrat/medium/h3 */
-    font-family: Montserrat;
+    /* font-family: Montserrat; */
+    font-family: Poppins;
     font-size: 54px;
     font-style: normal;
     font-weight: 500;
@@ -246,7 +252,8 @@ line-height: normal;
     color: var(--black, #000);
 
 /* font/golden-ratio/montserrat/medium/h4 */
-font-family: Montserrat;
+/* font-family: Montserrat; */
+font-family: Poppins;
 font-size: 36px;
 font-style: normal;
 font-weight: 500;
