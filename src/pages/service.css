@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -363,4 +364,14 @@ font-weight: 600;
     /* margin-left: -50px; */
 
 }
+
+.Btn-4{
+  display: flex;
+  padding: auto;
+  width: auto;
+  justify-content: center;
+  align-items: center;
+  
+}
+
  }

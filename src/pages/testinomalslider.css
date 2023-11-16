@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 .main-frame{
   background: var(--primary-5, rgba(0, 116, 217, 0.05));
   display: flex;
