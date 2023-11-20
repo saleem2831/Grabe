@@ -329,6 +329,55 @@ letter-spacing: 0;
     
 }
 
+@media screen and (min-width: 1400px) {
 
+    .main2-1-1{
+    font-size: 84px;
+    }
+
+    .main2-1-2{
+        width: 650px;
+    font-size: 32px;
+    }
+
+    .main2-2-1-1{
+       
+    font-size: 32px;
+    }
+
+    .ref{
+    font-size: 32px;
+    }
+    
+    .address{
+    font-size: 28px;
+    }
+
+
+    .foot{
+        display: flex;
+        align-items: flex-start;
+        /* gap: 72px; */
+        margin-top: 15%;
+    }
+    
+    .foottxt{
+      
+    font-size: 24px;
+    }
+    
+    .foottxt2{
+    font-size: 24px;
+    }
+
+    .main1{
+    width: 1800px;
+    margin: 250px 380px 0px 380px;
+    /* margin: auto; */
+    }
+
+    
+    
+}
 
 

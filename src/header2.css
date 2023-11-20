@@ -166,6 +166,6 @@ a {
 
 @media screen and (min-width: 1400px) {
     ul {
-      width: 1370px;
+      /* width: 1370px; */
     }
   }

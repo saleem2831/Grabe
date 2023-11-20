@@ -38,9 +38,9 @@ const Footer = () => {
       </div>
 
       <div className='bottom'>
-        <p className='bot1'>Privacy    &nbsp;  &nbsp;&nbsp; &nbsp;Terms &nbsp;&nbsp; &nbsp;&nbsp;Sitemap</p>
+        <p className='bot1' style={{color:'#cccccc'}}>Privacy    &nbsp;  &nbsp;&nbsp; &nbsp;Terms &nbsp;&nbsp; &nbsp;&nbsp;Sitemap</p>
         {/* <p className='bot1'>Privacy</p> */}
-        <p className='bot1'> copyrights 2023 - Grubstake</p>
+        <p className='bot1' style={{color:'#cccccc'}}> copyrights 2023 - Grubstake</p>
       </div>
     </footer>
     

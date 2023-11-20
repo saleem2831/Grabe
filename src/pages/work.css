@@ -326,4 +326,33 @@ width: auto;
 
  }
 
+ @media screen and (min-width: 1400px) {
+  .one-1{
+    width: 950px;
+    font-size: 84px;
+  }
+
+  .Tag6-1-2,.Tag6-2-2{
+    font-size: 54px;
+}
+
+.Tag6-1-3,.Tag6-2-3{
+font-size: 32px;
+}
+
+.Tag6-1-1{
+  /* margin: auto; */
+  margin:128px 200px 74px 200px;
+}
+
+.Tag6-2-1{
+  margin: 74px 200px;
+}
+
+.Tag6-11,.Tag6-12 {
+ gap:32px;
+}
+  
+ }
+
 

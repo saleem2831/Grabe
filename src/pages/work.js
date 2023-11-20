@@ -25,7 +25,7 @@ const Work = () => {
                   </div>
                   <p className='Tag4-1-2'>Case Study
               </p>
-              <p className='Tag4-1-3'>
+              <p id = 'Tag4-1-3' className='Tag4-1-3'>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
               </p>
               {/* <div className='Tag4-1-4'>
