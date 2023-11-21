@@ -309,11 +309,21 @@ letter-spacing: 0;
     display: none;
     }
 
-    .img2{
+    /* .img2{
         width: 370px;
         height: 550px;
         display: block;
     }   
+     */
+
+     .img2{
+        width: 370px;
+    height: 550px;
+    background: url('/src/Images/Mobile/mob\ \(1\).jpg'), lightgray 50% / cover no-repeat;
+    display: block;
+    /* display: flex;
+    display: none; */
+    }
     
     .icon-1{
         /* width: 26.6px;

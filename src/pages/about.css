@@ -348,10 +348,18 @@ background: url("../Images/image\ 44.png"), lightgray 50% / cover no-repeat;
         margin: 0;
     }
 
-    .second1 {
+    /* .second1 {
     height: 500px;
     align-self: stretch;
+} */
+
+.second1{
+
+    height: 500px;
+    width: 675px;
+    background: url('../Images/Tab/Tab1.jpg'), lightgray 50% / cover no-repeat;
 }
+
 }
 
 @media only screen and (min-width: 992px) {
@@ -392,22 +400,22 @@ background: url("../Images/image\ 44.png"), lightgray 50% / cover no-repeat;
     }
 
     .four52{
-        width: auto;
-    height: 699px;
-    background: url("../Images/image\ 42.png"), lightgray 50% / cover no-repeat;
+    width: auto;
+    height: 500px;
+    background: url("../Images/Mobile/mob\ \(5\).jpg"), lightgray 50% / cover no-repeat;
     }
     
     .four53{
-        width: auto;
+    width: auto;
     height: 500px;
-    background: url("../Images/image\ 43.png"), lightgray 50% / cover no-repeat;
+    background: url("../Images/Mobile/mob\ \(6\).jpg"), lightgray 50% / cover no-repeat;
     }
     
     .four54{
     width: auto;
-    height: 630px;
-    flex-shrink: 0;
-    background: url("../Images/image\ 44.png"), lightgray 50% / cover no-repeat;
+    height: 500px;
+    /* flex-shrink: 0; */
+    background: url("../Images/Mobile/mob\ \(7\).jpg"), lightgray 50% / cover no-repeat;
     }
 
     .txtfo2{
@@ -489,4 +497,24 @@ background: url("../Images/image\ 44.png"), lightgray 50% / cover no-repeat;
     gap: 10px;
     
     }
+
+    .second1{
+
+        width: auto;
+        height: 300px;
+        background: url('../Images/Mobile/mob\ \(12\).jpg'), lightgray 50% / cover no-repeat;
+    }
+
+}
+
+@media screen and (min-width: 1400px) {
+
+    .second1{
+
+        width: 2144px;
+        height: 868px;
+        background: url('../Images/Large/mob\ \(4\).jpg'), lightgray 50% / cover no-repeat;
+    }
+    
+
 }

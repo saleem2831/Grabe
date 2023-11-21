@@ -315,18 +315,26 @@ line-height: normal;
   margin: 10px 10px 10px 0px;
   }
 
-  .Tag4-2-1{
+  /* .Tag4-2-1{
     width: 380px;
     height: 768px;
     border-radius: 26px;
     position: relative;    
+  } */
+
+  .Tag4-2-1{
+    width: 320px;
+    height: 600px;
+    /* border-radius: 26px; */
+  background: url('/src/Images/Mobile/mob\ \(14\).jpg'), lightgray -734.734px -59.89px / 247.014% 113.422% no-repeat;
   }
+  
 
   .Tag1-2-1{
 border-radius: 54px;
-width: 350px;
+width: 330px;
 height: 600px;
-margin-left: -50px;
+margin-left: -35px;
   }
 
   .footer1{

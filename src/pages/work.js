@@ -38,7 +38,7 @@ const Work = () => {
               </div>
               
               <div className='Tag4-12'>
-              <div className='Tag4-2-1'>
+              <div className='Tag4-2-12'>
               </div>
               <p className='Tag4-2-2'>Case Study
               </p>

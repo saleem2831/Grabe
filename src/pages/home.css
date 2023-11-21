@@ -181,7 +181,7 @@ flex-wrap: wrap;
 
 
 
-.Tag4-2-1{
+.Tag4-2-12{
   width: 574px;
   height: 746px;
   background: url('/src/Images/image27.png'), lightgray 50% / cover no-repeat;
@@ -262,6 +262,9 @@ line-height: normal;
 /* Tab */
 @media screen and (min-width: 768px) and (max-width: 1200px) {
   /* Styles for medium screens (e.g., tablets) */
+
+  
+
   .Tag{
     
     /* display: flex; */
@@ -288,7 +291,7 @@ line-height: normal;
 padding-top: 100px;
 width:auto;
 }
-.Tag4-2-1,.Tag4-1-1 {
+.Tag4-2-12,.Tag4-1-1 {
   margin:auto;
  
 }
@@ -304,25 +307,33 @@ width:auto;
   background: url('/src/Images/image\ 28.png'), lightgray 50% / cover no-repeat;
 } */
 
+.Tag5-1{
+  width: 700px;
+  height: 450px;
+  background: url('/src/Images/Tab/Tab2.png'), lightgray 50% / cover no-repeat;
+  margin: auto;
+}
+
+
 }
 
 @media (max-width: 575.98px) { 
 
-  .Tag4-2-1{
+  /* .Tag4-2-12{
     width: 354px;
     height: 456px;
     margin-left: auto;
-}
+} */
 
 .Tag4-12,.Tag4-11{
 width: auto;
 }
 
-.Tag4-1-1{
+/* .Tag4-1-1{
   width: 350px;
   height: 700px;
   margin-left: auto;
-}
+} */
 
 .Tag-1{
   width: auto;
@@ -352,6 +363,31 @@ width: auto;
   height: 200px;
   background: url('/src/Images/image\ 28.png'), lightgray 50% / cover no-repeat;
 } */
+
+.Tag5-1{
+  width: 400px;
+  height: 332px;
+  background: url('/src/Images/Mobile/mob\ \(10\).jpg');
+
+}
+
+.Tag4-1-1{
+  width: 360px;
+  height: 583px;
+  background: url('/src/Images/Mobile/mob\ \(2\).jpg');
+}
+
+.Tag4-2-12{
+  width: 360px;
+  height: 583px;
+  background: url('/src/Images/Mobile/mob\ \(3\).jpg');
+}
+
+.Tag5{
+
+  row-gap: 32px;
+  padding: 64px 32px;
+}
 
 
 }
@@ -387,7 +423,7 @@ font-size: 72px;
 .Tag4-1-1{
   margin: 74px 168px;
 }
-.Tag4-2-1{
+.Tag4-2-12{
   margin:128px 200px 74px 200px;
 }
 

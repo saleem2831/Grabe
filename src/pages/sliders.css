@@ -7,8 +7,29 @@ gap: 64px;
 }
 
 .Img{
-    width: 1449px;
+width: 1449px;
 height: 966px;
 position: static;
+display: none;
 }
 
+.Img2,.d-block2{
+    display: none;
+}
+
+@media (max-width: 575.98px) { 
+
+    .Img{
+        width: 290px;
+        height: 300px;
+        position: static;
+        }
+        
+}
+
+@media screen and (min-width: 1400px) {
+
+    .d-block2,.Img2{
+        display: none;
+    }
+}
