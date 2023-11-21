@@ -42,9 +42,10 @@ $(window).on("scroll", function() {
                         <div class="menu">
                               <ul>
                                     <li><a class="active" className='Color' href='/work'>Work</a></li>
+                                    <li><a className='Color' href="/services">Services</a></li>
                                     <li><a className='Color' href="/about">About</a></li>
                                     <li><a className='Color' href="/contact">Contact</a></li>
-                                    <li><a className='Color' href="/services">Services</a></li>
+                                    
                               </ul>
                         </div>
                   </nav>

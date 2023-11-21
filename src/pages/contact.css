@@ -357,23 +357,30 @@ letter-spacing: 0;
     .foot{
         display: flex;
         align-items: flex-start;
-        /* gap: 72px; */
+        /* gap: 64px; */
         margin-top: 15%;
     }
     
     .foottxt{
       
-    font-size: 24px;
+    /* font-size: 24px; */
     }
     
     .foottxt2{
-    font-size: 24px;
-    }
+    /* font-size: 24px; */
+        margin-left: 1200px;
+        width: 250px;
+}
 
     .main1{
     width: 1800px;
     margin: 250px 380px 0px 380px;
     /* margin: auto; */
+    }
+
+    .foot{
+        gap: 0px;
+        margin-top: 25%;
     }
 
     
