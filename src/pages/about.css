@@ -514,6 +514,8 @@ background: url("../Images/image\ 44.png"), lightgray 50% / cover no-repeat;
         width: 2144px;
         height: 868px;
         background: url('../Images/Large/mob\ \(4\).jpg'), lightgray 50% / cover no-repeat;
+        /* margin: auto; */
+        margin-left: 6%;
     }
     
 
