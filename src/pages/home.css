@@ -317,7 +317,7 @@ width:auto;
 
 }
 
-@media (max-width: 575.98px) { 
+@media(max-width: 575.98px) { 
 
   /* .Tag4-2-12{
     width: 354px;
@@ -388,6 +388,14 @@ width: auto;
   row-gap: 32px;
   padding: 64px 32px;
 }
+
+.Pic1{
+  /* background: url('/src/Images/image\ 10.png'), lightgray 50% / cover no-repeat; */
+  width: 1449px;
+  width: auto;
+  height: auto;
+}
+
 
 
 }
