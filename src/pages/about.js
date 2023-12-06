@@ -33,7 +33,7 @@ const About = () => {
                     <p className='five22 five-22'>Years of Experience</p>
                   </div>
                   <div className='four21'>
-                    <p className='five21 five-21'>25+</p>
+                    <p className='five21 five-21' id='tfp'>25+</p>
                     <p className='five22 five-22'>Projects</p>
                   </div>
                 </div>

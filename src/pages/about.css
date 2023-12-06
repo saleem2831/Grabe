@@ -376,8 +376,17 @@ background: url("../Images/image\ 44.png"), lightgray 50% / cover no-repeat;
     /* background-color: red; */
     width: auto;
     display: flex;
-    padding: 64px 32px 96px 32px;
-    gap: 10px;
+    /* padding: 64px 32px 96px 32px; */
+    padding: 32px 32px 64px 32px;
+    /* gap: 10px; */
+    }
+
+    #tfp{
+        margin-top: -18px;
+    }
+
+    .first2{
+        padding: 32px 64px;
     }
     
     .second{
@@ -391,11 +400,12 @@ background: url("../Images/image\ 44.png"), lightgray 50% / cover no-repeat;
 
     .first5{
     width: auto;
-    padding: 64px 32px;
+    padding: 16px 32px;
+    gap: 0;
     }
 
     .txtf5{
-    font-size: 56px;
+    font-size: 44px;
     font-weight: 600;
     }
 
@@ -419,21 +429,27 @@ background: url("../Images/image\ 44.png"), lightgray 50% / cover no-repeat;
     }
 
     .txtfo2{
-        font-size: 48px;
+        font-size: 36px;
+    }
+
+    .txtfo1{
+        /* padding: 0px 16px; */
+        margin: 0px 16px;
+        /* font-size: 56px; */
     }
     
     .txtfo3,.txtf4{
-    font-size: 32px;
+    font-size: 18px;
     }
 
     .first4{
     width: auto;
-    padding: 64px 32px;
+    padding: 32px 16px;
     }
 
     .first3{
     width: auto;
-    padding: 32px 0px;
+    padding: 16px 32px;
     justify-content: center;
     align-items: center;
     display: flex;
@@ -451,11 +467,12 @@ background: url("../Images/image\ 44.png"), lightgray 50% / cover no-repeat;
     .second2{
         display: flex;
     width: auto;
-    padding: 32px 0px;
+    /* padding: 0px 0px 0px 0px; */
+    padding: 0;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 64px;
+    gap: 32px;
     }
     
     .third21{
@@ -503,6 +520,15 @@ background: url("../Images/image\ 44.png"), lightgray 50% / cover no-repeat;
         width: auto;
         height: 300px;
         background: url('../Images/Mobile/mob\ \(12\).jpg'), lightgray 50% / cover no-repeat;
+    }
+
+    .second5{
+        padding: 0px;
+    }
+
+    .four51{
+        gap: 5px;
+        padding-top: 24px;
     }
 
 }

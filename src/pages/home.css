@@ -16,6 +16,8 @@
     font-size: 3rem;
     margin: 1rem;
   } */
+
+  
   section {
     height: 100vh;
     color: white;
@@ -44,6 +46,7 @@
     align-items: center;
     gap: 10px;
 }
+
 
 .Tag-1{
     width: 1085px;
@@ -325,10 +328,18 @@ width:auto;
     margin-left: auto;
 } */
 
-.Tag4-12,.Tag4-11{
-width: auto;
+.Tag4{
+  padding: 32px 32px;
 }
 
+.Tag4-12,.Tag4-11{
+width: auto;
+padding: 5%;
+}
+
+#Tag4-1-3,.Tag4-2-3,.Tag5-3{
+    font-size: 22px;
+}
 /* .Tag4-1-1{
   width: 350px;
   height: 700px;
@@ -337,25 +348,34 @@ width: auto;
 
 .Tag-1{
   width: auto;
-  padding: 64px 32px;
+  padding: 16px 32px;
   /* background-color: yellow; */
-  font-size: 36px;
+  font-size: 34px;
   /* font-family: Poppins; */
 }
 
 .Tag2{
     
-  padding: 64px 32px;
+  padding: 16px 24px;
 }
 
 .Tag2-1{
-  font-size: 15px;
+  font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: normal; 
   align-items: center;
   margin: 16px;
   /* align-content:center; */
+}
+
+.Tag3{
+    padding: 16px 24px;
+}
+
+.Tag3-1{
+font-size: 32px;
+margin: auto;
 }
 
 /* .Tag5-1{

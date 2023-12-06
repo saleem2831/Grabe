@@ -8,6 +8,8 @@ import $ from "jquery";
 import M from 'materialize-css/dist/js/materialize.min.js';
 import { useEffect } from 'react';
 import Testinominal from './testinomalslider';
+import 'animate.css';
+
 
 
 
@@ -19,8 +21,8 @@ const Home = () => {
     return (
         <main>
           
-          <div className='Tag'>
-            <p className='Tag-1'>Grubstake a global business consulting firm</p>
+          <div className='Tag' class="animate__animated animate__bounce">
+            <p className='Tag-1' >Grubstake a global business consulting firm</p>
           </div>
           
           <section className='Pic1'>

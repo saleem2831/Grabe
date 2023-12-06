@@ -12,6 +12,7 @@ import Header2 from './header2';
 import Test from './pages/testinomalslider';
 import HeaderMain from './Header';
 import SlideImage from './pages/slideimage';
+import ScrollAnimation from './pages/animation';
 
 const App = () => {
   return (
@@ -29,6 +30,8 @@ const App = () => {
         <Route path="/testinomal" component={Test}/>
         <Route path="/HeaderMain" component={HeaderMain}/>
         <Route path="/slideImage" component={SlideImage}/>
+        <Route path="/animate" component={ScrollAnimation}/>
+
 
 
 
