@@ -70,7 +70,7 @@ const Services = () => {
                   </div> */}
                   <p className='Tag4-1-2'>Strategy & Corporate Finance</p>
               <p className='Tag4-1-3'>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.              </p>
+              Grubstake specializes in Strategy & Corporate Finance, offering tailored services for informed decision-making, seamless transactions, and strategic partnerships. Our expertise extends to risk management, financial efficiency, and compliance, ensuring businesses navigate challenges and regulatory landscapes with confidence.              </p>
               <div className='Tag4-1-4'>
                   <button className='Btn-4'>Data & Business Unit Strategy</button>
                   <button className='Btn-4'>Mergers & Acquisitions</button>
@@ -97,8 +97,7 @@ const Services = () => {
               <div className='Tag1-11'>
                   <p className='Tag4-1-2'>Operations & Implementation</p>
               <p className='Tag4-1-3'>
-              Our designers and developers collaborate to create products and digital workflows that provide exceptional user experiences and functionality. We optimise search engine visibility, ensure accessibility, and maximise performance.
-              </p>
+              Grubstake excels in Operations & Implementation, providing tailored solutions to streamline processes and drive efficient execution. We optimize operational workflows, enhance resource utilization, and implement strategic initiatives for sustainable growth.              </p>
               <div className='Tag4-1-4'>
                   <button className='Btn-4'>Reduce Costs</button>
                   <button className='Btn-4'>Service Operations</button>
@@ -117,8 +116,7 @@ const Services = () => {
                   </div> */}
                   <p className='Tag4-1-2'>People & Organization Strategy</p>
               <p className='Tag4-1-3'>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-              </p>
+              Grubstake specializes in People & Organization Strategy, crafting solutions to elevate workforce performance and organizational effectiveness. We design strategic HR initiatives, talent management, and leadership development programs to foster a dynamic and engaged workforce.              </p>
               <div className='Tag4-1-4'>
                   <button className='Btn-4'>Employee Engagement</button>
                   <button className='Btn-4'>Leadership Development</button>
@@ -144,8 +142,7 @@ const Services = () => {
               <div className='Tag1-11'>
                   <p className='Tag4-1-2'>Innovation Strategy</p>
               <p className='Tag4-1-3'>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-              </p>
+              Grubstake is at the forefront of Innovation Strategy, guiding organizations to pioneer groundbreaking solutions and stay ahead in dynamic markets.              </p>
               <div className='Tag4-1-4'>
                   <button className='Btn-4'>Employee Engagement</button>
                   <button className='Btn-4'>Leadership Development</button>
@@ -164,8 +161,7 @@ const Services = () => {
                   </div> */}
                   <p className='Tag4-1-2'>Growth, Marketing & Sales</p>
               <p className='Tag4-1-3'>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-              </p>
+              Empowering businesses to expand their market presence and drive revenue. We craft data-driven marketing strategies, implement targeted campaigns, and optimize sales processes for maximum impact.              </p>
               <div className='Tag4-1-4'>
                   <button className='Btn-4'>Branding</button>
                   <button className='Btn-4'>Sales & Ecosystem Management</button>

@@ -51,8 +51,7 @@ const Home = () => {
                   <p className='Tag4-1-20'>Case Study
               </p>
               <p id='Tag4-1-3' className='Tag4-1-3 '>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-              </p>
+              Grubstake provides strategic consulting across industries, utilizing data analytics to enhance user experiences.               </p>
               <div className='Tag4-1-4'>
                   <button className='Btn-4'>Strategy</button>
                   <button className='Btn-4'>BusinessConsulting</button>
@@ -68,8 +67,7 @@ const Home = () => {
               <p className='Tag4-2-2'>Case Study
               </p>
               <p className='Tag4-2-3'>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-              </p>
+              Innovative solutions, and process optimization aim to create more efficient and customer-centric ecosystems              </p>
               <div className='Tag4-2-4'>
                   <button className='Btn-4'>B2B</button>
                   <button className='Btn-4'>BusinessConsulting</button>
@@ -84,8 +82,7 @@ const Home = () => {
               <p className='Tag5-2'>Case Study
               </p>
               <p className='Tag5-3'>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-              </p>
+              Grubstake's expertise in navigating industry landscapes ensures a seamless integration of technology and a forward-looking approach, fostering sustainable growth and success              </p>
               <div className='Tag4-1-4'>
                   <button className='Btn-4'>Strategy</button>
                   <button className='Btn-4'>BusinessConsulting</button>
